@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tradersarina
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in BITCOIN TRANSACTION GENERATOR
+- 🌱
+- 💞️ I’m looking to Build fake bitcoin generator
 - 📫 How to reach me tradersarina@gmail.com
 
 <!---
